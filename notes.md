@@ -21,3 +21,25 @@ Wrote task to `task0_runner.py`
 [task0] Offline fallback time: 2025-06-14T19:34:20.782020 (Reason: [WinError 64] The specified network name is no longer available)
 
 [task0] Offline fallback time: 2025-06-25T16:22:42.563899 (Reason: [WinError 64] The specified network name is no longer available)
+
+[task0] Offline fallback time: 2025-06-25T16:22:55.640828 (Reason: [WinError 64] The specified network name is no longer available)
+
+[task1] System Resource Monitor:
+  CPU Usage: 1.4%
+  RAM Usage: 45.4%
+  Disk Usage: 38.4%
+  Top Memory Processes:
+    - MemCompression: 3.26%
+    - chrome.exe: 2.26%
+    - explorer.exe: 2.14%
+
+
+[task1] System Resource Monitor:
+  CPU Usage: 4.3%
+  RAM Usage: 46.3%
+  Disk Usage: 38.4%
+  Top Memory Processes:
+    - Code.exe: 2.74%
+    - MemCompression: 2.53%
+    - chrome.exe: 2.18%
+
